@@ -6,7 +6,7 @@
 
 <img src="https://www.ncut.edu.cn/images/logo-dh.png"  />
 
-# MySQL 基础
+# SQL 基础
 
 **授课教师：徐夙** 
 
