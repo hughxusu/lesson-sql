@@ -28,7 +28,7 @@
 
 ## PgSQL安装与启动
 
-PgSQL网站提供了不同版本的安装程序，包括：Windows、Linux或MacOS。本教程使用[Docker](/docs/03-docker/a-安装.md)来安装PgSQL。
+PgSQL网站提供了不同版本的安装程序，包括：Windows、Linux或MacOS。本教程使用[Docker](https://hughxusu.github.io/lesson-knowledge/#/docs/d-docker/a-%E7%BB%AA%E8%AE%BA)来安装PgSQL。
 
 <img src="https://raw.githubusercontent.com/hughxusu/lesson-knowledge/develop/images/mysql/Xnip2026-01-02_20-23-57.jpg" style="zoom:40%;" />
 
